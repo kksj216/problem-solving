@@ -1,2 +1,2 @@
 # problem-solving
-My problem solving record repository🎲
+My problem solving repository🎲
