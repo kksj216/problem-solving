@@ -1,0 +1,1 @@
+print(int(input())-544+1)
